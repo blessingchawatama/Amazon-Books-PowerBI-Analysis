@@ -26,7 +26,7 @@ This project uses Power BI to analyze Amazon book listings, focusing on pricing,
 ## Dashboard Pages
 
 ### 1. Pricing & Ratings Overview
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](Dashboard-overview.png)
 
 ### 2. Year-over-Year Analysis
 ![Yearly Analysis](yearly-analysis.png)
